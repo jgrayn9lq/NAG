@@ -1,5 +1,5 @@
 # NAG
-N1MM F9 Keys toggle antennas selected on Antenna Genius 8x2
+N1MM F9 Key toggles same band antennas selected on Antenna Genius 8x2 switch
 
 #---------------------------------------------------------
 # Program NAG.py by Joel Gray, N9LQ  12/06/19
