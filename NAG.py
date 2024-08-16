@@ -3,7 +3,7 @@
  
 # This program listens to the UDP broadcasts from N1MM, parses the radio
 # number and antenna number, and sends it via TCP to the Antenna Genius
-# antenna switch.
+# antenna switch.  This works with Antenna Genius firmware ver 2.x.x
 
 # It requires you to configure the antennas in N1MM to reflect the antennas
 # you wish to toggle between.  The setup in the Antenna Genius application
